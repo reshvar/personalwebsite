@@ -1,6 +1,7 @@
 ---
 title: Noresh Varman
 role: Building Science and Mechanical Engineer
+avatar_filename: manisagar-0061_retouched.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
