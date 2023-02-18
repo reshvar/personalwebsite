@@ -12,7 +12,7 @@ social:
     icon_pack: fas
     link: /#contact
   - display:
-      header: true
+      header: false
     link: linkedin.com/noreshvarman
     icon_pack: fab
     icon: linkedin
