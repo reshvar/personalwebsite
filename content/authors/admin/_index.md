@@ -1,7 +1,5 @@
 ---
-title: Noresh Varman
-role: Building Science and Mechanical Engineer
-avatar_filename: manisagar-0061_retouched.jpg
+avatar_filename: ""
 bio: ""
 interests:
   - Machine Learning
@@ -14,7 +12,7 @@ social:
     icon_pack: fas
     link: /#contact
   - display:
-      header: false
+      header: true
     link: linkedin.com/noreshvarman
     icon_pack: fab
     icon: linkedin
@@ -33,7 +31,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Building Science and Mechanical Engineer
 highlight_name: true
+title: Noresh Varman
 first_name: Alice
 email: ""
 ---
